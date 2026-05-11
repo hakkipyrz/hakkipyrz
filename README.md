@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">👋 Hey! I'm a Management Information Systems student who’s diving into the world of cybersecurity.<br>🧠 Passionate about Python, system monitoring, and defensive security (Blue Team).<br>🔒 Currently working on my TÜBİTAK 2209-A project focused on reducing false positives in log analysis systems.<br>⚡ In my free time, I’m learning about SOC and cybersecurity or playing video games.</p>
+<p align="left">👋 Hey! I'm a Management Information Systems student diving into the world of Software Quality Assurance.<br>🧠 Passionate about manual testing, Agile/Scrum methodologies, and learning test automation (Selenium).<br>🔍 Currently building real-world QA projects, creating end-to-end test cases, and managing test cycles using Jira & Zephyr Scale.<br>⚡ In my free time, I’m exploring game development (Unity/C#) or playing video games.</p>
 
 ###
 
