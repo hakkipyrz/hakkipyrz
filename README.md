@@ -26,7 +26,12 @@
 
 ###
 
-<p align="left">👋 Hey! I'm a Management Information Systems student diving into the world of Software Quality Assurance.<br>🧠 Passionate about manual testing, Agile/Scrum methodologies, and learning test automation (Selenium).<br>🔍 Currently building real-world QA projects, creating end-to-end test cases, and managing test cycles using Jira & Zephyr Scale.<br>⚡ In my free time, I’m exploring game development (Unity/C#) or playing video games.</p>
+<p align="left">
+👋 Hey! I'm a Management Information Systems student diving into the world of Game Development.<br>
+🎮 Passionate about creating gameplay systems, designing mechanics, and building immersive experiences with Unity & C#.<br>
+🧠 Currently developing game projects, improving my programming skills, and learning more about game architecture and design patterns.<br>
+⚡ In my free time, I enjoy exploring new game development ideas, experimenting with mechanics, or playing video games.
+</p>
 
 ###
 
