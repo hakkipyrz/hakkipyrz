@@ -28,7 +28,7 @@
 
 <p align="left">
 👋 Hey! I'm interested in both networking and cybersecurity. <br>
-🌐 Focused on networking fundamentals — routing, protocols, and traffic flow.
+🌐 Focused on networking fundamentals — routing, protocols, and traffic flow. <br>
 🧠 Passionate about Python, network systems, and defensive security. <br>
 ⚡ In my free time, I’m developing games and playing video games.
 </p>
