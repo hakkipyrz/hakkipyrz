@@ -27,10 +27,10 @@
 ###
 
 <p align="left">
-👋 Hey! I'm a Management Information Systems student diving into the world of Game Development.<br>
-🎮 Passionate about creating gameplay systems, designing mechanics, and building immersive experiences with Unity & C#.<br>
-🧠 Currently developing game projects, improving my programming skills, and learning more about game architecture and design patterns.<br>
-⚡ In my free time, I enjoy exploring new game development ideas, experimenting with mechanics, or playing video games.
+👋 Hey! I'm building a strong foundation in both networking and cybersecurity.
+🌐 Interested in how networks work under the hood — from routing and protocols to real-world traffic flow, infrastructure, and system communication.
+🧠 Passionate about Python, network systems, and defensive security.
+⚡ In my free time, I’m developing games and playing video games.
 </p>
 
 ###
