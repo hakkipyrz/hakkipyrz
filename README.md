@@ -27,9 +27,9 @@
 ###
 
 <p align="left">
-👋 Hey! I'm building a strong foundation in both networking and cybersecurity.<br>
-🌐 Interested in how networks work under the hood — from routing and protocols to real-world traffic flow, infrastructure, and system communication.<br>
-🧠 Passionate about Python, network systems, and defensive security.<br>
+👋 Hey! I'm interested in both networking and cybersecurity. <br>
+🌐 Focused on networking fundamentals — routing, protocols, and traffic flow.
+🧠 Passionate about Python, network systems, and defensive security. <br>
 ⚡ In my free time, I’m developing games and playing video games.
 </p>
 
